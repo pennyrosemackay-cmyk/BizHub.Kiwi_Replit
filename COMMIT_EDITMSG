@@ -1,0 +1,10 @@
+Add keyword search to homepage and clear buttons to all inputs
+
+Enhances the Combobox component with a clear button and adds a keyword search input to the homepage, mirroring the functionality of the search page. Updates the search page to accept search keywords from URL parameters and includes clear buttons for input fields.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 1c79ab7e-e16a-45a0-a75b-afb66b76239b
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 7412d134-3583-4b54-9c4c-b87b2a64fa97
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/35437168-73d0-43fc-91a5-c5d0c28b3179/1c79ab7e-e16a-45a0-a75b-afb66b76239b/fAAqqrs
+Replit-Helium-Checkpoint-Created: true
